@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Mishra</h1>
-<h3 align="center">🚀 MERN Stack & ML Developer | Ctrl+C + Ctrl+V Expert 😎</h3>
+<h3 align="center">🚀 MERN Stack & ML Developer | Do Ctrl+C & Ctrl+V like a Pro 😎</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+cool+things+with+code...;Machine+Learning+Enthusiast;Open+Source+Contributor+%F0%9F%93%9D;Always+Learning+Something+New!" alt="Typing SVG" />
