@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Shivam Kumar Mishra 👋
+# Hi, I'm Shivam Kumar Mishra 
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=680&lines=Building+LLM+Apps+and+RAG+Pipelines;Full-Stack+MERN+Developer;Automating+Workflows+with+Google+Apps+Script;Open+to+AI+ML+and+SDE+Roles" alt="Typing SVG" />
 
@@ -16,19 +16,19 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
-- 🎓 B.Tech in Computer Science & Engineering (Data Science), NIET — 2022 to 2026
-- 🤖 Passionate about **AI Engineering** and **Backend Development** — I like turning LLMs into things that actually do useful work, not just demos
-- 🔧 Comfortable across the stack: RAG pipelines and LLM apps on one side, production React/Node features on the other
-- ⚙️ Interned at **Meritto**, where I built an AI mail-automation bot and 20+ workflow integrations using Google Apps Script, REST APIs, and webhooks
-- 🌱 Currently leveling up on **DevOps & Cloud Infrastructure**
-- 👯 Open to collaborating on AI/ML, automation, and full-stack web projects
-- 📫 Reach me at **shivammishra993187@gmail.com**
+-  B.Tech in Computer Science & Engineering (Data Science), NIET — 2022 to 2026
+-  Passionate about **AI Engineering** and **Backend Development** — I like turning LLMs into things that actually do useful work, not just demos
+-  Comfortable across the stack: RAG pipelines and LLM apps on one side, production React/Node features on the other
+-  Interned at **Meritto**, where I built an AI mail-automation bot and 20+ workflow integrations using Google Apps Script, REST APIs, and webhooks
+-  Currently leveling up on **DevOps & Cloud Infrastructure**
+-  Open to collaborating on AI/ML, automation, and full-stack web projects
+-  Reach me at **shivammishra993187@gmail.com**
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 | Project | What it does | Built with | Links |
 |---|---|---|---|
@@ -42,7 +42,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Languages**
 
